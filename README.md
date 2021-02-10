@@ -20,7 +20,7 @@
 - sqft_lot15
 
 
-# The two main objectives of the project are:
+# The main objectives of the project are:
 - Present the essential data analysis and processing steps in order to build a Linear Regression Model.
 - Build a Linear Regression model that is able to predict the price of a house based on other certain variables.
 
