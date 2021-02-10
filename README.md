@@ -27,9 +27,9 @@
 
 
 
-### Note: ALL the steps of analysing and processing the data and building  the model are explained in the Python Notebook.
+##### Note: ALL the steps of analysing and processing the data and building  the model are explained in the Python Notebook.
 
-### Note: The dataset was obtained from: [house-price-prediction](https://github.com/Shreyas3108/house-price-prediction)
+##### Note: The dataset was obtained from: [house-price-prediction](https://github.com/Shreyas3108/house-price-prediction)
  
  
  
