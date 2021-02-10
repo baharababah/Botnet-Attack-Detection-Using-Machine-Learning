@@ -1,7 +1,7 @@
 #In this project, we are going to work on a houses priced dataset that has the follwing columns:
-price 	
-bedrooms 	
-bathrooms 	
+-price 	
+-bedrooms 	
+-bathrooms 	
 sqft_living 	
 sqft_lot 	
 floors
